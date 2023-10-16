@@ -4,6 +4,10 @@ body {
   color: #222;
 }
 
+body[data-jp-theme-light="true"] .jp-Notebook .CodeMirror.cm-s-jupyter{
+    background-color: #D7F7FE !important;
+}
+
 * {
   transition: all .65s ease;
   box-sizing: border-box;
