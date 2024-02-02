@@ -191,6 +191,7 @@ h3 {
 .columns .item:hover .social .fa:hover, .columns .item:focus .social .fa:hover {
   color: #769ab2;
 }
+
 @media (max-width: 660px) {
   .columns .item {
     max-width: 100%;
